@@ -1,0 +1,105 @@
+I"�<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">RCFaCEN</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="RCFaCEN" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">I want to work in bioinformatics. How do I start?</div>
+          <!-- Author -->
+          <div class="author">Franco, Camilo,&nbsp;Maidana, Rocío Riveros,&nbsp;Rotela, Abdon Troche,&nbsp;Noto, Mariana,&nbsp;Alvarenga, Andrea Arrúa,&nbsp;and Ríos, Danilo Fernández
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Reportes Cientificos de la FaCEN</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://scielo.iics.una.py/scielo.php?script=sci_arttext&amp;pid=S2222-145X2020000100051&amp;lng=es&amp;nrm=iso&amp;tlng=es" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/2222-145X-rcfacen-11-01-51.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>As the analysis of large volumes of data and the use of multi-omics techniques are becoming more widespread, competence in computational thinking is an essential skill as part of the toolkit of a scientist working with biological data. All studies of "omics" require computational biology: implementing analysis requires programming skills, while experimental design and interpretation require a solid understanding of the analytical approach. Although academic nuclei, commercial services, and collaborations can assist in the implementation of analyses, the computational skills needed to design and interpret omics studies cannot be replaced or supplemented. However, many bioscience professionals are exclusively trained in experimental techniques.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">SciELO</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="SciELO" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">SSD - a free software for designing multimeric mono-, bi- and trivalentshRNAs</div>
+          <!-- Author -->
+          <div class="author">Carli, Gabriel José,&nbsp;Rotela, Abdon Troche,&nbsp;Lubini, Greice,&nbsp;Contiliani, Danyel Fernandes,&nbsp;Candia, Nidia Benítez,&nbsp;Depintor, Thiago S.,&nbsp;Abreu, Fabiano Carlos Pinto,&nbsp;Simões, Zilá Luz Paulino,&nbsp;Ríos, Danilo Fernández,&nbsp;and Pereira, Tiago Campos
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>SciELO Brazil</em> Jan 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.scielo.br/j/gmb/a/RcVnVSH9c3wfdjX5bmFKCwN/?lang=en" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/SSD_Software-Paper.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>RNA interference (RNAi) is a powerful gene silencing technology, widely used in analyses of reverse genetics, development of therapeutic strategies and generation of biotechnological products. Here we present a free software tool for the rational design of RNAi effectors, named siRNA and shRNA designer (SSD). SSD incorporates our previously developed software Strand Analysis to construct template DNAs amenable for the large scale production of mono-, bi- and trivalent multimeric shRNAs, via in vitro rolling circle transcription. We tested SSD by creating a trivalent multimeric shRNA against the vitellogenin gene of Apis mellifera. RT-qPCR analysis revealed that our molecule promoted a decrease in more than 50% of the target mRNA, in a dose-dependent manner, when compared to the control group. Thus, SSD software allows the easy design of multimeric shRNAs, for single or multiple simultaneous knockdowns, which is especially interesting for studies involving large amounts of double-stranded molecules.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">AUGM</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="AUGM" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">DESARROLLO Y CONSTRUCCIÓN DE UN CURADOR MÚLTIPLE DE RIBOFLAVINA</div>
+          <!-- Author -->
+          <div class="author">Troche Rotela, Abdon,&nbsp;Álvarez Dagogliano, Rolando,&nbsp;Benítez Candia, Nidia,&nbsp;Riveros Maidana, Rocío,&nbsp;Sánchez Di Martino, Daniel,&nbsp;and Fernández Ríos, Danilo
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>AUGM’s Publications</em> Nov 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://grupomontevideo.org/sitio/wp-content/uploads/2019/03/jji-libro-de-resumenes1.pdf" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/assets/pdf/jji-libro-de-resumenes1.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>La queratitis infecciosa es una enfermedad ocular asociada con la pérdida permanente de la visión y causada por microorganismos; en ocasiones se presentan casos resistentes al tratamiento quimioterapéutico. La utilización del enlace cruzado o reticulación (CRUVR) para esos casos resulta interesante en el área oftalmológica. Actualmente el CRUVR terapéutico se utiliza para el tratamiento de la enfermedad queratocono, y consiste en una reacción química que produce enlaces entre cadenas de polímeros, donde se incluye la aplicación de riboflavina sobre el ojo hasta que penetre en su interior, y la posterior irradiación del ojo con con luz ultravioleta (UV). La realización de ensayos in vitro para el testeo de la eficacia del CRUVR en el tratamiento de la queratitis infecciosa presenta dificultades al no existir un dispositivo emisor de luz UV adaptado a las condiciones de laboratorio; por lo cual los ensayos actualmente se realizan con el dispositivo médico utilizado para el tratamiento del queratocono. En el presente trabajo se diseñó y construyó un dispositivo que permite la irradiación simultánea de múltiples muestras a 0.112 mW/cm^2, lo que constituye un avance hacia la optimización de la realización de ensayos in vitro.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
